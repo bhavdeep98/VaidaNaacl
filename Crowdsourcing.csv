@@ -1,0 +1,70 @@
+,id,gold_label,sentence1,sentence2,sentence22
+0,1,entailment,"A young boy with blue shorts, at an indoor pool jumping into the water.",a young kid jumps into the water,A child leaps into the water with trunks on.
+1,2,entailment,A group of people standing in the street.,A group of people in the street.,A crowd gathers on the road.
+2,3,entailment,A biker gets high in the air against a skyline.,The biker is a human.,The biker stands against a skyline.
+3,4,entailment,A man is sitting beside a bunch of material while sewing.,A man is sewing.,A man sits and sews with cloth.
+4,5,entailment,A dread-locked photographer in a suit takes pictures of a group of young children sitting on the ground.,The children are being photographed.,The children are being photographed.
+5,6,entailment,A black dog walking through water.,The water has a black dog walking through it.,The black dog is getting wet.
+6,7,entailment,A man in glasses and a striped shirt walks down the street with one hand in his pocket.,A man is walking somewhere,A man needs glasses to see clearly.
+7,8,entailment,a man with a cigarette in hand is looking at a car in front of him.,Man looks at car.,A man stands near a car while smoking.
+8,9,entailment,"Three adults and one child are waiting outside of a building, perhaps a school.",Four people are standing in front of a building.,Four people are standing in front of a building.
+9,10,entailment,A boy poses in karate form and uniform.,a boy shows his uniform,A boy is in a martial arts uniform.
+10,11,entailment,Two Olympic martial arts competitors go after each other in an international martial arts spectacle.,Two people are competing in the Olympics.,Two Olympic atheletes compete for a medal.
+11,12,entailment,"The young girl wearing a pink shirt is putting a box, with a drawn face and bow, on a shelf along with other food.",a young girl putting a box on a shelf,A girlis putting a box on a shelf.
+12,13,entailment,A man is doing tricks on a skateboard.,A human doing tricks,The man is good at skateboarding.
+13,14,entailment,This land race gets a little wet and wild.,There is a land race.,The land race gets competitors wet.
+14,15,entailment,A man in a navy polo shirt snaps photos at a golf course while a crowd of spectators looks on in the background.,A man is taking pictures at a golf course.,A man photographs at a golf course.
+15,16,entailment,A male is placing an order in a deli.,A man at a deli.,A man orders food at a deli.
+16,17,entailment,A baseball player sliding into home as the opposing team's catcher awaits the baseball for the out.,A player is hoping to score a run.,The baseball player is not out.
+17,18,entailment,A man wearing a brown shirt and green pans is pulling a rickshaw down a street,A man was pulling a rickshaw behind him.,The man pulls a rickshaw behind him.
+18,19,entailment,Two small children are gathering water from a large container.,Two kids are getting water.,Two kids are getting water.
+19,20,entailment,A man is singing on stage with his fingers in a stuffed bear's nose.,A man is entertaining on stage by singing and putting his fingers in a stuffed animal.,A man's fingers are covered.
+20,21,entailment,"Two women, one wearing a scarf and the other wearing a broad brim hat, pound what may be food, on a primitive table with wooden mallets",Two women with wooden mallets are preparing what looks like food on a simple table.,Two women pound with mallets.
+21,22,entailment,"The two people are on the end of the dock with a boat behind them, and they are surrounded by water.",Two people standing on a boat dock next to the water.,Two people are near water.
+22,23,entailment,"Two dogs, one lying down, play in a yard.",They are outdoors.,The dogs are playing.
+23,24,neutral,Two guys sitting in a room with green and white curtain.,Two men are sitting and smoking.,Two men sit in a dark room.
+24,25,neutral,A woman in a tan top and jeans is sitting on a bench wearing headphones.,A woman is on vacation.,A woman is resting.
+25,26,neutral,A musician with short blond-hair and wearing a blue scarf and vest plays a string instrument while singing.,A tall person with a scarf,The musician is too warmly dressed for summer.
+26,27,neutral,During this vacation children enjoying their games at the park.,The park is crowded,The children don't want to play at the beach.
+27,28,neutral,One little toddler wearing blue pajamas and a little girl wearing red pajamas opening presents on christmas day.,Two small children are unhappy with the opening of their presents.,The kids are not happy with their presents.
+28,29,neutral,A gray dog with blue eyes laying on a bright blue carpet while chewing on something.,A gray dog is relaxing in his home.,A gray dog is very old.
+29,30,neutral,A policeman is directing a crowd of people walking.,A policeman is keeping people away from a crime scene.,A policeman helps people cross the street.
+30,31,neutral,a man in pants dancing in a park.,A man is entertaining others with his dance knowledge.,A man earns money for dancing.
+31,32,neutral,A man wearing a light blue robe-style jacket is sitting on a street corner playing a musical instrument.,The man was playing the guitar on the street.,A man earns money for performing.
+32,33,neutral,"As a referee looks on, a Los Angeles baseball player is falling over the top of a rival player who is just sliding into base.",A man is getting his uniform dirty by sliding to base.,The referee laughs at the players.
+33,34,neutral,An old woman in a green and blue plaid shirt is standing on a crowded sidewalk smiling.,A woman watching a street performer play guitar.,The woman is happy with the weather.
+34,35,neutral,An elderly woman wearing sunglasses stands and looks at something.,Elderly woman stops to look at a sales window.,The woman is shocked by the display window.
+35,36,neutral,A little girl in a red and white shirt stands next to some caricatures of celebrities at an art fair.,a kid stands near modern art,The kid is bored.
+36,37,neutral,two women in lab coats looking on a image projected on the wall,Scientists are interpreting experimental findings.,The scientists are experimenting with light.
+37,38,neutral,A group of people is gathered around a table of food with their arms around each other.,A group of people are gather around a meeting room table.,The people are thanking the chef.
+38,39,neutral,People are waiting in line by a food vendor.,People stand in line for food at a festival.,The people are at an amusement park.
+39,40,neutral,"A man and a woman are sitting at a table outside, next to a small flower garden.",The man and woman are on a date.,The man and woman are in love.
+40,41,neutral,Black dog with tan markings wearing a blue collar standing on green grass.,There is a dog standing in the park.,A dog is excited to be outside.
+41,42,neutral,Child squirting paint onto a piece of spin-art.,The child has paint all over their hands.,A child spills paint.
+42,43,neutral,Two police officers are sitting on motorcycles in the road.,the police are waiting,The police are looking at the crowd.
+43,44,neutral,A man is performing an aerial skateboard trick on a ramp with several other people behind him.,A man with a blue cap on is performing a skateboard trick in front of a crowd of people.,The crowd is bored with the man's trick.
+44,45,neutral,Two children in a bag race competing against each other while another boy watches on.,The boy watching has a broken leg.,The boy watching is jealous.
+45,46,neutral,A man is herding horned cows on a horse.,A person is herding his cattle on his ranch.,The man has forgotten to wear spurs.
+46,47,contradiction,Two women are embracing while holding to go packages.,The men are fighting outside a deli.,The ladies are holding both each other and some takeout.
+47,48,contradiction,"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.",Two kids in jackets walk to school.,Two kids in sports jumpers are sitting on steps.
+48,49,contradiction,A man selling donuts to a customer during a world exhibition event held in the city of Angeles,A woman drinks her coffee in a small cafe.,A man is buying tickets to a world series game.
+49,50,contradiction,"Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",dog eats out of bowl,Girls play golf with hats on.
+50,51,contradiction,A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.,A man is wearing a black shirt,A man stands under a blue sky in a red shirt.
+51,52,contradiction,"Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is playing with a ball.,A baby is playing with a toy helicopter.
+52,53,contradiction,A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is fixing her home.,A woman can't do a cartwheel at the beach and gets sand in her mouth.
+53,54,contradiction,A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.,They are driving cars.,They collide while ice skating in January.
+54,55,contradiction,Two men on bicycles competing in a race.,A few people are catching fish.,Some people are eating dinner.
+55,56,contradiction,A young boy in a field of flowers carrying a ball,dog in pool,A girl in a lake is carrying fish.
+56,57,contradiction,Families waiting in line at an amusement park for their turn to ride.,The restaurant is very bad.,The rollercoaster closed early due to rain.
+57,58,contradiction,A group of onlookers glance at a person doing a strange trick on her head.,A boy does a card trick.,The magician has a bunny under her hat.
+58,59,contradiction,The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf.,Only one woman is wearing a head scarf.,One woman borrows a headscarf from the other.
+59,60,contradiction,A senior is waiting at the window of a restaurant that serves sandwiches.,A man is waiting in line for the bus.,A man juggles oranges while waiting for his drink.
+60,61,contradiction,"Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.",Nobody has a suit,The band is wearing floral shirts in the summer festival.
+61,62,contradiction,Two women having drinks and smoking cigarettes at the bar.,Three women are at a bar.,Two women are smoking and drinking at home.
+62,63,contradiction,"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",A single man is next to a camera,A crowd puts on a dragon costume.
+63,64,contradiction,Two doctors perform surgery on patient.,Two surgeons are having lunch.,Two surgeons watch the patient doing surgery.
+64,65,contradiction,A white dog with long hair jumps to catch a red and green toy.,A white dog with long hair is swimming underwater.,A white dog has a haircut.
+65,66,contradiction,Kids are on a amusement ride.,A car is broke down on the side of the road.,The kids are waiting in line for a ride.
+66,67,contradiction,A man in a black shirt is playing golf outside.,The man in the black shirt trades Pokemon cards with his girlfriend.,A man in a blue shirt swims inside.
+67,68,contradiction,A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.,two ladies pin clothes to dry,A baby gets his picture taken at the laundromat.
+68,69,contradiction,An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake.,An Indian woman is putting her laundry into the machine.,An Indian woman jumps into the lake.

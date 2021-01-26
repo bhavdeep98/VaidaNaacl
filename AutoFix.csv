@@ -1,0 +1,70 @@
+,id,gold_label,sentence1,sentence2,sentence22
+0,1,entailment,"This young man is wearing blue jeans and a cowboy hat, and is walking away from a calf that is currently roped within an arena.",A person in jeans,The calf is looking at the man's retreating figure.
+1,2,entailment,A thin man in a maroon shirt standing next to a pay phone.,A man is standing next to a payphone wearing a maroon shirt.,The slender stranger is near a phone.
+2,3,entailment,Two grownups are waiting for the bus to arrive on a cold day.,They are outdoors.,They are about to undertake a journey.
+3,4,entailment,A man and a woman are boxing in a park with flowering trees.,The man and woman are doing physical activity.,The couple are vigorously exercising outdoors.
+4,5,entailment,Three boys wearing life jackets are on top of innertube in the water.,Three boys are swimming.,The boys are both wearing and sitting on floatation devices.
+5,6,entailment,A group of people are sitting at a table which has glasses of beer on it.,People are sitting down,The posse is imbibing liquor.
+6,7,entailment,Two men and three women are sitting at a rectangular wooden table drinking beer from glasses of various shapes.,A small group of people having drinks.,The gang consumes differnet quantities of alcohol.
+7,8,entailment,Several smiling people of varying ages sitting around a table with glasses of beer in front of them.,A groupe of people are sitting at a table.,They are inebriatedly enjoying the experience.
+8,9,entailment,Two young boys in swimming trunks are in the water looking at each other.,The boys look at each other,The swimmers are sizing each other up.
+9,10,entailment,A man is throwing a big stick into the water so his two dogs and go fetch it.,Two large dogs are fetching for their master.,Two dogs dive into water in pursuit.
+10,11,entailment,People sit around tables watching intently under a cloth covering.,People sit around tables under canopies.,People sit under canopies and observe their surroundings.
+11,12,entailment,An elder bearded man having a rest in a dilapidated building.,An old bearded man is in an old building.,The building is risky to be inside.
+12,13,entailment,A boy and a girl walk through the city.,A boy and a girl are walking outside.,They are travelling to a destination.
+13,14,entailment,The boy in the black and red swimsuit is jumping into the water.,The boy in the black and red swimsuit is about to go swimming,The diver is about to get wet.
+14,15,entailment,The lady in the red jacket is helping the other lady decide what to buy.,There are multiple people present.,The helper is offering a recommendation.
+15,16,entailment,A downtown shot of a man on his cellphone under an awning.,A man talks on a phone in a city.,A man is having a conversation in the shade.
+16,17,entailment,"An Asian man in colorful robes holds a bell and leans toward a small table, with Buddhist or Hindu decorations on the table and the walls.",An Asian man in colorful light robes holds a bell.,He is worshipping at the table.
+17,18,entailment,A man jumps in front of a palace in China.,A man is jumping.,The man has launched himself off the ground.
+18,19,entailment,Two men in animal print pajama bottoms sleep on a bed.,Men are sleeping.,Their sleepwear is unique and kitschy.
+19,20,entailment,A nicely dressed woman putting a handful of cotton candy in her mouth in a public square in Europe.,A woman is eating cotton candy.,The woman likes sweet treats.
+20,21,entailment,Two men play a game of chess in the park while two others eagerly await their chance,People play chess while others watch.,The park chess games are a spectator sport.
+21,22,entailment,Couple walking on the beach.,A couple is at the beach.,The couple can see ripples on the water surface.
+22,23,entailment,"Two hikers crossing a snowy field, with mountainous terrain behind them.",Two hikers are out in the snow.,The hikers are on less treacherous terrain.
+23,24,neutral,A dog gnawing on a bone.,A dog is looking for a spot to hide his bone,The dog has nothing else to do.
+24,25,neutral,A girl in sunglasses smiles.,Girl wearing sunglasses smiling at a friend.,The girl has spotted a crab on the beach.
+25,26,neutral,A soccer player in a lime green shirt looks down at a yellow soccer ball.,The player is female,She aims for the goal and kicks out.
+26,27,neutral,Two black dogs in the snow.,Black puppies are frolicking among the freshly fallen snow.,They have never experienced a white winter before.
+27,28,neutral,A lady with a purse on his shoulder reaching upward and putting a crown in a statue's hand.,There is a lady putting a crown on her statue.,She is a museum curator arranging an exhibit.
+28,29,neutral,A man spiking the ball at a volleyball game.,The volleyball game is being held on the beach.,The ball barells downwards and fails to clear the net.
+29,30,neutral,Two men stand in an electric outdoor lift.,"The two men are inspectors for the FDA, waiting to inspect the second level of the pharmaceutical plant.",They get stuck between floors due to a power cut.
+30,31,neutral,A curly-haired man and a woman in a black tank top both play guitars and sing at a festival.,A brother and sister are playing in their band at a festival.,They are local family folk singers.
+31,32,neutral,Leaving the amusement park with lots of prizes.,Leaving the amusment park with a giant teddy bear.,The group has cheated at carnival games.
+32,33,neutral,A young girl washes an automobile.,The girl has a red bucket of water.,She runs out of water halfway through.
+33,34,neutral,A man in a light pink polo shirt holds a flag splayed out in the air behind him.,a man is holding a racing flag,The man is in an Olympic contingent.
+34,35,neutral,A female figure skater in costume is executing a routine.,A woman is competing soon.,She completes a complex maneuver and gets a high score.
+35,36,neutral,An Asian woman mixing cucumbers.,A woman is making her husband a meal.,She will be blending them for a smoothie.
+36,37,neutral,"A crowd of people are surrounding a street performance, there are buildings in the background.",A crowd of people are watching a breakdancer pull over his signature moves,The drama actors are experienced performers.
+37,38,neutral,A child holds sparklers in the dark.,A child holds bright sparklers in the dark.,The sparklers are not yet lit.
+38,39,neutral,"Five children are on a slide, all dressed in different colored clothes.",Children playing in a park.,The children have never met each other.
+39,40,neutral,A man in an orange vest and hat is shoveling rocks while another man in a yellow and blue jacket looks on.,A tall person in a vest,The foreman observes the new hire.
+40,41,neutral,Football players playing in mud.,Football players are wrestling in mud.,It is raining during the game.
+41,42,neutral,A man in an orange kayak and a man in a blue kayak paddle around a beautiful lake.,Two men are racing around a lake,The men are training for a competition.
+42,43,neutral,Skier wearing red walking up a snowy hillside.,Skier walking up hill towards the ski lift.,The skier is scared of using ski lifts.
+43,44,neutral,A man wearing an apron is smiling at a plate of food.,The food plate was the first meal the man will have today.,He has recently been promoted to head chef.
+44,45,neutral,A man in a red shirt is being serviced by a working old woman in a store.,A lady waits on a man in the general store.,The employee is very patient with the man.
+45,46,neutral,A man and woman sit on a dock looking out over the water on an overcast day.,The man and woman are a couple.,They are also listening to the shipping forecast.
+46,47,contradiction,"A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.",A man is chasing an SUV that is going in the same direction as him.,The man is riding in the taxi to the zoo.
+47,48,contradiction,People wearing red shirts are standing in a large pool of water as it splashes over and around them.,Nobody has a shirt on,They are currently cleaning the pool.
+48,49,contradiction,A person rides his bicycle in the sand beside the ocean.,A person is on a boat.,He hates sand with a passion.
+49,50,contradiction,A man in a black shirt is playing a guitar.,The man is wearing a blue shirt.,The guitar string snaps and hits him.
+50,51,contradiction,"Colorfully dressed people walk down the center of the road, with onlookers behind a barricade.",A group of people in a motorcade driving past an audience.,The motorcade whizzes past the onlookers.
+51,52,contradiction,A woman is talking on the phone while standing next to a dog.,A woman is sleeping.,The dog is on her lap.
+52,53,contradiction,5 women sitting around a table doing some crafts.,Five men stand on chairs.,The table surface is bare.
+53,54,contradiction,Street performer with bowler hat and high boots performs outside.,The child is dancing inside.,The sun reflects off the performer's bald head.
+54,55,contradiction,A young boy playing in the grass.,The boy is in the sand.,The child is very angry and bothered.
+55,56,contradiction,Two men playing baseball with the one in the black and red jersey running toward base.,The man in black and red is sitting in the bleachers.,The men are fighting on the diamond.
+56,57,contradiction,A man and a woman are looking at produce on display.,Two men throw produce at each other for fun.,There is no stock at the grocery store.
+57,58,contradiction,People are throwing tomatoes at each other.,The people are sitting and eating their food.,The ground is laden with papya seeds.
+58,59,contradiction,People standing in line of a beer and curry line.,People not standing in line,The queue will go hungry.
+59,60,contradiction,A man and a woman are talking in a park,A man and woman are talking in the aquarium.,They are chatting on the patio.
+60,61,contradiction,A small ice cream stand with two people standing near it.,Two people selling ice cream from a car.,The stand is abandoned on a vacant lot.
+61,62,contradiction,Number 916 is hoping that he is going to win the race.,A person is is playing baseball.,The race hopeful has a broken leg.
+62,63,contradiction,Girl plays with colorful letters on the floor.,The girl is playing a video game in the bath.,The letters are made of flour.
+63,64,contradiction,Two men are cooking food together on the corner of the street.,The two men are running in a race.,They are making tie-n-dye shirts.
+64,65,contradiction,A man wandering in the desert as the clouds roll in.,A man fights dead mummy's who magically came alive in the desert.,The man is eating sand while hallucinating an oasis.
+65,66,contradiction,A lady with bright orange hair walking in a crowd.,The woman is asleep.,The carrot-headed woman is loitering in an alleyway.
+66,67,contradiction,"A white-haired man with a mustache and glasses in a business suit stands outside at a podium marked with the seal of the US House of Representatives, surrounded by many people, with a columned building behind him.",The man is sitting in a chair inside.,The man is sitting in the audience.
+67,68,contradiction,A man running a marathon talks to his friend.,There are people canoeing down a river.,He collapses whilst on the phone.
+68,69,contradiction,A lot of people walking outside a row of shops with an older man with his hands in his pocket is closer to the camera.,A lot of dogs barking outside a row of shops with a cat teasing them.,The closest thing on camera is the dog.

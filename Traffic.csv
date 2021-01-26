@@ -1,0 +1,70 @@
+,id,gold_label,sentence1,sentence2,sentence22
+0,1,entailment,A young man in jogging slacks is checking information on his mobile devise while listening to something on a crowded commuter rail car.,a man in jogging pants checks his device,He is jamming while traveling.
+1,2,entailment,An african american woman with 2 young girls.,There is a woman with two girls.,Two girls are chaperoned by a woman.
+2,3,entailment,Several people wait to checkout inside a store with a warehouse looking ceiling.,many people are waiting in a store,There are a lot of people in the checkout line at the shop.
+3,4,entailment,"Many people are in a cafeteria or restaurant, there are two workers wearing white and black who are taking their orders.",People in a busy restaurant.,Two waiters in suits are waiting on tables in a crowded restaurant.
+4,5,entailment,Three people and a white dog are sitting in the sand on a beach.,People sitting on the beach.,The trio is winding down at the beach.
+5,6,entailment,"Young boy with tongue out hula hooping with two hula hoops in a crowded area, man in blue shirt stands behind him.",A boy is hula hooping while a man is behind him.,The man is watching as the hula-hooping boy makes a funny face.
+6,7,entailment,A group of women wearing bikinis are playing beach volleyball.,Women play volleyball.,They are having a blast.
+7,8,entailment,A man sweeping in the street.,A man is cleaning the street.,The sweeper is cleaning the road.
+8,9,entailment,"Male in brown leather jacket and black slacks, looking down at his phone, leaning against a brown painted box.","Male in brown leather jacket and black slacks, looking down at his phone",A man on his phone is lolling against a box.
+9,10,entailment,"A woman dressed as Dorthy from the Wizard of Oz smiling at a baby, standing above her on a table, dressed as an elephant.",Somebody who is depicted is wearing a costume from a movie.,They both were in costume and were enjoying themselves.
+10,11,entailment,"Woman in a dress standing in front of a line of a clothing line, with clothes hanging on the line.",A woman in a dress is standing in front of a line.,The clothes are on a line behind the woman.
+11,12,entailment,A woman is eating what appears to be a mussel.,The woman is about to ingest food,She's going to eat a shellfish.
+12,13,entailment,Two kids begin to make a snowman on a sunny winter day.,Two kids making a snowman.,The snowman will melt faster than if the day had been cloudy.
+13,14,entailment,A man in a green shirt is singing karaoke while a young woman with long brownish hair stands by and listens.,A man is singing a song.,The karaoke singer is singing to a woman nearby.
+14,15,entailment,A man with a crop is trying to stay on a rearing horse.,The horse is rearing,The man is trying to subdue the horse using the crop.
+15,16,entailment,Excavation of the ruins of a ancient temple.,A ancient temple is evacuated.,People are digging up the temple's remains.
+16,17,entailment,A dog with big ears holds a ball in his mouth.,The dog has big ears.,The ball is covered in saliva.
+17,18,entailment,A man riding a red motorbike near a large crowd of people by some tents.,A man is on a motorbike.,The bike's engine is revving as the man drives.
+18,19,entailment,A woman in a wheelchair is talking to her friend while surrounded by other people walking in the park.,The woman is outdoors.,The disabled woman is having a conversation.
+19,20,entailment,Old man with gray blanket on squatting against a wall,Old man squats against a wall.,He can't feel the coldness at his back.
+20,21,entailment,A black dog holding an orange object in the water.,A dog holds an object in the water.,The orange item is submerged.
+21,22,entailment,A youth is kicking a soccer ball in an empty brick area.,A human kicking.,He's passing time alone.
+22,23,entailment,Four men in red vests with crosses on them ski on a mountain.,Four people are skiing,The vests stand out against the snow.
+23,24,neutral,A female swimmer getting out of the pool still dripping wet.,An Olympic swimmer exits the pool.,She's been training for the Olympics.
+24,25,neutral,A woman wearing sunglasses is holding a pink cellphone to her ear.,A woman is talking on her phone with her boyfriend.,The phone is ringing against her ear.
+25,26,neutral,"Two women are standing under an umbrella together, in front of a bandstand.",The women are holding a umbrella because it is raining on them.,The women are shielding themselves from the sun.
+26,27,neutral,"Four people sit on a subway two read books, one looks at a cellphone and is wearing knee high boots.",Multple people are using the subway to get to work.,The person with boots is reading a book.
+27,28,neutral,"An elderly woman pushing a cart filled with boxes walks by theater sign for ""South Pacific"".",A tall person pushing a cart,"The cart is very hard to push, so the woman is moving slowly."
+28,29,neutral,Female sitting in a chair in front of a hazy field.,A woman is waiting for someone.,The grass is covered with dew.
+29,30,neutral,A woman sits on a bed and puts on her red socks.,"A woman is sitting on her bed, getting dressed for work.",There is a Christmas party at work.
+30,31,neutral,"Two competitors in the last leg of a race, strong legs, long strides to the end.",The crowd is cheering them on.,The runners are struggling to finish the race.
+31,32,neutral,"Lonely woman eats alone again, chatting with her internet boyfriend at a diner.",An old woman is eating at a diner.,The man is in a different time zone.
+32,33,neutral,a young girl in red lifting a girl in blue to the top of a wall and lighting.,They are trying to reach something high up.,The second girl is younger than the first.
+33,34,neutral,A gentleman in a striped shirt gesturing with a stick-like object in his hand while passersby stare at him.,A gentleman in a striped shirt joyously gesturing,A man is sticking his hand out with a cane.
+34,35,neutral,Several firemen stand or sit on a gray roof while working.,Several fireman are putting out a fire on a gray roof.,The sitting firemen are older.
+35,36,neutral,A man and a woman are out walking their dogs.,A man and a woman are out walking their dogs while chatting.,The man and woman know each other.
+36,37,neutral,City workers in bright yellow and green safety suits haul a stack of traffic cones through the snow and past the tree trunk.,There has been so much snow that the city had to buy more traffic cones.,The workers are removing cones to make way for the snow plough.
+37,38,neutral,A man in swimming trunks plays in the ocean's waves.,A man is surfing out on the ocean.,The man has fallen off a surfboard.
+38,39,neutral,"A snowboarder in a red jacket flies through the air, above a hill of snow, and next to a red and white sign.",The snowboarder is on a ski lift.,The jacket blends in with the sign.
+39,40,neutral,"A person playing a drum with only their lower torso, hands, drumsticks, and drum showing in the foreground.",A person is happily playing a drum.,The drummer is in the zone.
+40,41,neutral,A woman singer holding a microphone singing at a concert.,madonna is singing at a concert,The crowd is going wild.
+41,42,neutral,A gentleman carrying the 2012 Olympic torch being follow by a car on a people lined street.,a man stole the 2012 olympic torch and runs from a police officer,The crowd cheers for the car.
+42,43,neutral,A boy is outside jumping over a flower bush on a skateboard.,a boy on his skateboard he got for Christmas,He isn't a very experienced skater.
+43,44,neutral,"A curly-haired redhead is wearing a blue checkered hat, a black long-sleeve shirt, and blue jeans while holding a red jacket as she speaks to her friends standing behind her.",Her friends are telling her to hurry up and put her jacket on.,She has had an argument with her friends and is leaving.
+44,45,neutral,A small group of adults and children stand on a cobblestone street outside of an Irish pub.,They prepare to go home after a delicious meal,The children aren't allowed inside.
+45,46,neutral,"The people driving the tiny white car were nearly hit by the train, but it had fortunately stopped just in time.","The tiny white car with the Obama bumper sticker was almost hit by the train, however, the car managed to barely avoid the collision.",The driver barely made it past the railway crossing
+46,47,contradiction,A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.,A man is wearing a black shirt,A man is hit by a double decker.
+47,48,contradiction,A shirtless man is singing into a microphone while a woman next to him plays an accordion.,He is playing a saxophone.,The man is waiting for his turn at karaoke.
+48,49,contradiction,Women and children sitting outside in the shade while a group of younger children sitting inside in the shade.,The woman is running.,The family is relaxing on a rainy day.
+49,50,contradiction,A pregnant lady singing on stage while holding a flag behind her.,A woman is sick in bed.,An expectant father is performing on television.
+50,51,contradiction,The two farmers are working on a piece of John Deere equipment.,2 Men are making a pool together,The farmers are tired and are playing cards.
+51,52,contradiction,A little boy in a blue shirt holding a toy.,Boy dressed in red lighting things on fire.,The boy is helping his parents with groceries.
+52,53,contradiction,A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.,The woman is talking on the phone.,The woman doesn't know how to write.
+53,54,contradiction,A baby at the end of a slip and slide at a party,The man is at the end of the slip and slide,A child is bone dry.
+54,55,contradiction,A girl swings high in the air.,A girl is laying in the pool,Her heart beats fast in fear.
+55,56,contradiction,A view of the back of a woman having a beverage.,woman dumps the drink on a man,The lady spills her drink on her dining companion.
+56,57,contradiction,A lady sitting on a bench that is against a building and under a poster of a man in a uniform waving.,Nobody is sitting,A lady is kickboxing at a studio.
+57,58,contradiction,A man with a shopping cart is studying the shelves in a supermarket aisle.,A man is watching a movie in a theater.,A woman loved ordering her produce online every fortnight.
+58,59,contradiction,"A man wearing sunglasses is sitting on the steps outside, reading a magazine.","The man is reading a spoon with the words ""HELP ME"" on it.",It’s raining very heavily as he's reading.
+59,60,contradiction,"A woman sitting outside weaving a long piece of red, white, and blue cloth.",He is jumping over a house,A seamstress wants to burn some calories.
+60,61,contradiction,A person powerwashing stairs leading down to a pool.,a dog chases a cat,The stairs are still slimy.
+61,62,contradiction,A person rides his bicycle in the sand beside the ocean.,A person is falling off his bike.,Bikes can't be ridden on soft surfaces.
+62,63,contradiction,"Two black little boys hanging over an upside down bicycle, one examining the pedal.",Someone is riding a bike.,Kids are giving their bikes a coat of anti-rust paint before monsoon sets in.
+63,64,contradiction,A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background.,The pets are sleeping on the grass.,Dogs hate staying still for even a moment.
+64,65,contradiction,A group of people prepare hot air balloons for takeoff.,A group of people prepare cars for racing.,A crowd is watching fireworks at Disneyland.
+65,66,contradiction,Men stand on steps leading out of a body of water,Men are sitting outside near a golf course.,The swimmers are in formation to dive headfirst.
+66,67,contradiction,A group of young people with instruments are on stage.,Young people are playing water polo.,A football team is lounging in the locker room.
+67,68,contradiction,A long-beaked bird in mid-flight.,A rat running on a wheel.,A toucan preens itself on a branch.
+68,69,contradiction,A man in the middle east with a corn-on-the-cob cart selling corn.,A middle east man is throwing corn at strangers.,An Asian man is trying to grow a rare flower.

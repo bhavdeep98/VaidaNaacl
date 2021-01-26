@@ -1,0 +1,70 @@
+,id,gold_label,sentence1,sentence2,sentence22
+0,1,entailment,Two backpackers look at scenic mountains.,Two guys are carrying things on their back.,The travellling duo look at the valleys below.
+1,2,entailment,An airplane flying over a fence with a few bystanders watching it as it approaches its landing.,The airplane is heavy,The engines re very loud.
+2,3,entailment,Group of people stand near a fence watching a plane fly over them,Group of people standing outside,Some people are looking upwards.
+3,4,entailment,a girl in a pumpkin dress sitting at a table.,There is a girl in a pumpkin dress sitting at a table.,You can only see her torso.
+4,5,entailment,Three individuals are wearing tight blue nylon suits with one instructor in all black with a ponytail assisting them with putting on harnesses.,Three individuals are wearing tight blue nylon suits.,The people are equipping themselves to perform.
+5,6,entailment,A band of young musicians are playing an intimate concert to a small crowd in an outdoor courtyard.,a band is playing,The band caters to a select crowd.
+6,7,entailment,A live band on a lawn jamming out.,People are playing music.,Music fills the air outdoors.
+7,8,entailment,"A young lady walking down the street wearing a black jacket, sunglasses, sneakers, jeans, & gloves.",A young lady is walking down the street.,The girl is very well covered.
+8,9,entailment,A man with a tattoo is wearing sunglasses while holding a small boy.,There is a man with body art who is holding a young person.,The man with body art has his hands full.
+9,10,entailment,A mother and her daughter are both wearing heels standing outside in a crowd on a brick pavement looking out at the street in amazement.,There are men on the brick pavement.,They are surprised at the scene in front of them.
+10,11,entailment,A surgeon is performing an open surgery.,A doctor is doing surgery.,The surgeon is well-trained.
+11,12,entailment,"A single runner, clothed in appropriate attire, jogging on a sidewalk next to a body of water, with buildings in the backdrop on the other side of the water.","A jogger, dressed for jogging, jogs on a sidewalk near water.",He is sweating due to the humidity.
+12,13,entailment,a boy walks through the water.,A boy walks on water.,The boy wades in as water seeps into his clothes.
+13,14,entailment,A woman is cleaning an outdoor pool.,There is a pool outside.,She is removing dirt crusted on the pool tiles.
+14,15,entailment,A man and woman showing a small child how to use a gun.,A couple teaching a kid on firearm use,The couple are firearem experts and teachers.
+15,16,entailment,A crowd of interested people surrounds a man swinging a sledgehammer.,A man swinging a sledgehammer.,People are impressed by the man's feat.
+16,17,entailment,"Small boy hugged by person in bee costume, blurry urban background.",The boy is giving a hug.,The bee shows affection to the boy.
+17,18,entailment,A treat vendor is standing in the sun while others sit in the shade under umbrellas.,A vendor is outside with other people.,The vendor is more likely to get sunburnt.
+18,19,entailment,Young blond girl holding chopsticks looks with red eyes at camera while another girl in the background looks at food.,The girl is touching an object.,The girl with the chopsticks pauses before beginning her meal.
+19,20,entailment,A lone man standing a rock shore looking downward at a inland body of water with a blue ocean or other large body of water behind him extending into the horizon of a blue sky.,You can observe some water in the frame.,The man is surrounded by water bodies.
+20,21,entailment,A man about to smash something with a very large sledgehammer.,the sledgehammer is large,The man is using a very powerful tool.
+21,22,entailment,Four people are bandaging a head wound.,People are bandaging an injured head.,The bleeding from the head wound has been stopped
+22,23,entailment,Man observes a wavelength given off by an electronic device.,The man is examining what wavelength is given off by the device.,The man examines the device's output.
+23,24,neutral,A bridesmaid gives a toast with a microphone while two other bridesmaids and a gentleman look on.,A bridesmaid is telling a story about the bride's childhood.,She is embarassing the bride with a childhood story.
+24,25,neutral,A balding man is getting his shoes cleaned on a street corner.,An old man getting his shoes shined.,The man has an important appointment.
+25,26,neutral,A group of young men in sports uniforms from two opposing teams are in vigorous play on a grassy field.,Men play soccer on the field,The men are cheered for by the crowd.
+26,27,neutral,A small group of adults and children stand on a cobblestone street outside of an Irish pub.,A small group of adults and children stand happily on a cobblestone street.,The children do not want to enter.
+27,28,neutral,A woman looking through what appears to be a telescope.,An female astronamer looking toward the stars through her telescope.,She can barely see anything through clouds.
+28,29,neutral,Four girls look at objects under a microscope.,Four sad girls look at objects under a microscope.,The bacteria is very dangerous.
+29,30,neutral,Two ladies looking for bread to purchase.,The women are dating.,They are going to feed pigeons.
+30,31,neutral,Two men boxing a ring while one boxer is hitting the other.,They are sports rivals.,The boxer is knocked out with three punches.
+31,32,neutral,A race car sits in the pits.,The car is being repaired.,The car has blown two tires.
+32,33,neutral,Grading and pricing fish in an open air fish market.,A fresh catch right off the boat has been delivered for sale to the market.,The fish have been kept out all day.
+33,34,neutral,"On stage, the innards of a piano are shown next to a man at a desk who is working on electronics, while a long-haired man is looking at a screen which shows ""53:11"".",Then men are performing a play.,The piano needs tuning before the show.
+34,35,neutral,"Two brown and white dogs, one jumping over a log while the one behind runs through the grass.",They are playing with each other.,The white dog is more adventurous than the brown.
+35,36,neutral,The lady wearing a red coat is giving a speech.,Lady give a speech in the House of Representatives.,Her voice echoes in the chamber.
+36,37,neutral,A nurse examines equipment in the operating room.,A nurse is in training.,The nurse is sterilizing scalpels.
+37,38,neutral,An old man and lady in a white uniform is standing next to a man in black playing an instrument.,An old man and his nurse are listening to the musician play.,The woman doesn't like the music being played.
+38,39,neutral,Golfer celebrates after a shot he has made.,A golfer is competing in an important tournament.,The golfer runs around the cart in glee.
+39,40,neutral,A dog gnawing on a bone.,A dog found a bone,The dog prefers eating dog food.
+40,41,neutral,A man carrying a bag from a stick is walking down the sidewalk.,A man is walking to the train station.,The man is a hobo.
+41,42,neutral,Young male in blue shirt and tan pants rollerblading.,The young man is at the skating rink.,His pants split when he falls down.
+42,43,neutral,A woman swinging a tennis racket on an outdoor court.,A woman is enjoying a game of tennis with her best friend.,He is losing to her quite badly.
+43,44,neutral,"A firefighter, in full uniform, looks off into the distance.",The firefighter is going to put out a fire.,The firefighter is surveying water damage to the house.
+44,45,neutral,"An entertainer in a black shirt with a red tie and red suspenders, in Toronto, is playing with fire.",A fire eater is performing in front of a crowd in Toronto.,The fire swallower has a tattoo.
+45,46,neutral,A woman in a pink shirt is painting the last two stars on a painting of the American flag.,The woman is using different colors,She is covered in paint.
+46,47,contradiction,A barefooted adolescent boy in a yellow shirt reaching the top of a small skateboarding ramp.,the boy is flying a helicopter,The boy's shoe tips shine in the sun.
+47,48,contradiction,A man waterskies with a life jacket.,Hitler rides a jetski in this Kawasaki advertisement.,The man is in a wetsuit to minimize drag.
+48,49,contradiction,A group of children enjoy their time on the beach.,A group of adults are swimming at the beach.,The gang is having a picnic in the park.
+49,50,contradiction,"A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves.",The small baby is in it's crib sound asleep.,The baby is sitting up in a chair.
+50,51,contradiction,An asian woman sitting outside an outdoor market stall.,A woman sitting in an indoor market.,The woman is very busy.
+51,52,contradiction,An older gentleman enjoys a scenic stroll through the countryside.,A pirate boards the spaceship.,The crank prefers to stay in ar conditioned environments.
+52,53,contradiction,A middle-aged man is sitting indian style outside holding a folded paper in his hands.,A middle aged man is sitting on a stool in a bar.,The man is eating breakfast.
+53,54,contradiction,"Several children are standing with plates full of food under a shelter, watching a man in a purple shirt serving good.",The children are outside playing soccer.,The children are too full to want food.
+54,55,contradiction,"This mother and her daughter and granddaughter are having car trouble, and the poor little girl looks hot out in the heat.",The family is driving safe and sound while the little girl is asleep.,The youngest is walking away from the car.
+55,56,contradiction,A hispanic fruit market with many different fruits and vegetables in view on a city street with a man passing the store dressed in dark pants and a hoodie.,A fish market is on the docks,The market has limited stock.
+56,57,contradiction,Three children dressed in winter clothes are walking through the woods while pushing cargo along.,Three childre are dressed in summer clothes.,The children are trekking across a mountain.
+57,58,contradiction,Five people are sitting on horses at a rodeo.,Bandits are sitting on horses as they prepare for a robbery.,The horses are jockey-less.
+58,59,contradiction,"Nine women in white robes with hoods walk on plush, green grass.",The woman is alone and asleep in her bedroom.,The women blend into the grass when they lie down.
+59,60,contradiction,"A woman holds her child out of a red window, next to a Color TV sign.",The TV holds a woman who holds a child.,The woman is juggling apples.
+60,61,contradiction,A construction worker is standing on a crane placing a large arm on top of a stature in progress.,Nobody is standing,He is looking at the base of the statue.
+61,62,contradiction,"Two Asian children, a boy and a girl, the girl looking squarely at the camera and the boy making a face.",the children are sleeping in their rooms,The kids are reading books at the library.
+62,63,contradiction,A man is jumping unto his filthy bed.,The man is on the moon.,The man regularly deep cleans his house.
+63,64,contradiction,A gentlemen dressed in a purple shirt with a red apron selling items to eat at a sport event held during the day in the summer time.,There is a person selling food inside a fancy restaurant.,The vendors provide free service.
+64,65,contradiction,"Multiple women are wearing middle eastern outfits of gold, blue, yellow and red and performing a dance.",The woman is alone and asleep in her canoe on the moon.,The dancers are dressed in monochrome.
+65,66,contradiction,a couple is walking down the sidewalk with their dog.,A couple is walking their cat to the vet.,A couple is watching a drive-in movie.
+66,67,contradiction,A crowd watches a group of people dressed in yellow shirts perform.,Spectators watching a group of dolphins perform.,The crowd has their eyes all closed.
+67,68,contradiction,A woman in black clothing runs down the street barefoot next to two people on bicycles and a female runner.,The woman is walking down the street with high heels.,The woman stealthily sneaks up on the runner.
+68,69,contradiction,A man in a Santa Claus costume is sitting on a wooden chair holding a microphone and a stringed instrument.,The man is swimming at the beach.,Santa is delivering presents.
